@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 54d64c0a9810bad4d9363a0363bfe40c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ClappingSound: {fileID: 8300000, guid: f4b1ae05fa4fb6948ace5af137e3bea5, type: 3}
+  - CollectAmtSound: {fileID: 8300000, guid: 2fea1700eb39b494fa33fe570f71d126, type: 3}
+  - DistributeCardSound: {fileID: 8300000, guid: 4f6d8d3f251f4864a9e3d5435e485b85,
+      type: 3}
+  - ClockSound: {fileID: 8300000, guid: b1e253817b915464ab3362722836320a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

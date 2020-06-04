@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e7115755aa95a474fb1c894fbff2d004
+timeCreated: 1508166091
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Clarendon BT
+  fontNames:
+  - Clarendon BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 799630622af644e6d989d0440caf15ca, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
